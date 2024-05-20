@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "eslint.enable": true,
+  "eslint.experimental.useFlatConfig": true,
+  // 为了使提示更精确
+  "tailwindCSS.rootFontSize": 14,
+  "css.customData": [".vscode/tailwind.json"],
+  "less.customData": [".vscode/tailwind.json"]
+}
